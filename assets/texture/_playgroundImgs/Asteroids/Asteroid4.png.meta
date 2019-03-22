@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "e7487043-f73f-4842-b786-298310deaae2",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "Asteroid4": {
+      "ver": "1.0.3",
+      "uuid": "467f2f4c-da2c-4efe-89a3-52f627056afb",
+      "rawTextureUuid": "e7487043-f73f-4842-b786-298310deaae2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 337,
+      "height": 188,
+      "rawWidth": 337,
+      "rawHeight": 188,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

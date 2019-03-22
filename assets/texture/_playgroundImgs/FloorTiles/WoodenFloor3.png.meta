@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "89000732-d8cb-4c5d-a8e5-7feeb1e858a6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "WoodenFloor3": {
+      "ver": "1.0.3",
+      "uuid": "c9ea374a-373d-41fa-9fcf-d40fe3b55b83",
+      "rawTextureUuid": "89000732-d8cb-4c5d-a8e5-7feeb1e858a6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 128,
+      "height": 128,
+      "rawWidth": 128,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "1760fdfe-1f0a-4872-9637-1127afd6b499",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "SpaceshipBlue": {
+      "ver": "1.0.3",
+      "uuid": "0772b941-bbbf-4d28-9fb2-5c39bf113396",
+      "rawTextureUuid": "1760fdfe-1f0a-4872-9637-1127afd6b499",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 512,
+      "height": 366,
+      "rawWidth": 512,
+      "rawHeight": 366,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

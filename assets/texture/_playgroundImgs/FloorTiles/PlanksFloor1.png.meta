@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "085a3f24-f081-435c-84a9-d373da6cdd15",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "PlanksFloor1": {
+      "ver": "1.0.3",
+      "uuid": "37f1c43e-a76b-42e8-8be1-f4aaf161bcf1",
+      "rawTextureUuid": "085a3f24-f081-435c-84a9-d373da6cdd15",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 128,
+      "height": 128,
+      "rawWidth": 128,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

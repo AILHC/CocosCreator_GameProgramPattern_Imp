@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "24d25abe-68e3-4052-922e-8ae34e44bfa3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "StoneFloor1": {
+      "ver": "1.0.3",
+      "uuid": "4a6e7805-84b0-4d09-baf2-d4c7d784cb54",
+      "rawTextureUuid": "24d25abe-68e3-4052-922e-8ae34e44bfa3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 128,
+      "height": 128,
+      "rawWidth": 128,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

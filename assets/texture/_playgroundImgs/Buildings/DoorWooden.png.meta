@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "c44452d1-36b6-4153-b9ad-15024e06a228",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "DoorWooden": {
+      "ver": "1.0.3",
+      "uuid": "fedefe7c-5399-4bc9-9226-8e7d27f6e998",
+      "rawTextureUuid": "c44452d1-36b6-4153-b9ad-15024e06a228",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 275,
+      "height": 328,
+      "rawWidth": 275,
+      "rawHeight": 328,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

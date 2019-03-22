@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "963c8286-8316-430d-a11f-ce6c1513d92a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "PotionGlass": {
+      "ver": "1.0.3",
+      "uuid": "3e1599c9-62fd-431b-b495-2d023daf7ee8",
+      "rawTextureUuid": "963c8286-8316-430d-a11f-ce6c1513d92a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 81,
+      "height": 82,
+      "rawWidth": 81,
+      "rawHeight": 82,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "d6ab7d04-ee7e-4f4f-b848-09daf9db6370",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "CobblestoneFloor2": {
+      "ver": "1.0.3",
+      "uuid": "b16915a7-3af2-4b76-9e3a-bb2a968623d3",
+      "rawTextureUuid": "d6ab7d04-ee7e-4f4f-b848-09daf9db6370",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 128,
+      "height": 128,
+      "rawWidth": 128,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

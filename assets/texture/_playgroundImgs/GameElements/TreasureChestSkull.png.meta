@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "8affbe0e-0cdb-4c62-8b92-489647cdb2b1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "TreasureChestSkull": {
+      "ver": "1.0.3",
+      "uuid": "69d2b21f-b470-484a-89e1-d2ef876a5fa0",
+      "rawTextureUuid": "8affbe0e-0cdb-4c62-8b92-489647cdb2b1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 296,
+      "height": 227,
+      "rawWidth": 296,
+      "rawHeight": 227,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

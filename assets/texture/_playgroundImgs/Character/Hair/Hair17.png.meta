@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "bd64a8e4-3038-40f2-abcc-ef53bd0f5dda",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "Hair17": {
+      "ver": "1.0.3",
+      "uuid": "16785442-9f30-409c-acee-50008a64275d",
+      "rawTextureUuid": "bd64a8e4-3038-40f2-abcc-ef53bd0f5dda",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 233,
+      "height": 192,
+      "rawWidth": 233,
+      "rawHeight": 192,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

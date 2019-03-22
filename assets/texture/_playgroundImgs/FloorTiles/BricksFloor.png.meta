@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "d402f597-6088-4255-8b98-177362521ec1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "BricksFloor": {
+      "ver": "1.0.3",
+      "uuid": "1c6a96df-d60d-4601-9df5-1adb1f4d66c5",
+      "rawTextureUuid": "d402f597-6088-4255-8b98-177362521ec1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 128,
+      "height": 128,
+      "rawWidth": 128,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

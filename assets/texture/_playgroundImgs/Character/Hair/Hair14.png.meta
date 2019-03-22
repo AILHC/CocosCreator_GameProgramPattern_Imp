@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "f8a64734-fcc9-44cb-8e92-0627510d9a81",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "Hair14": {
+      "ver": "1.0.3",
+      "uuid": "b05e1e01-ed74-4346-9887-8b46a490ed0d",
+      "rawTextureUuid": "f8a64734-fcc9-44cb-8e92-0627510d9a81",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 322,
+      "height": 145,
+      "rawWidth": 322,
+      "rawHeight": 145,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

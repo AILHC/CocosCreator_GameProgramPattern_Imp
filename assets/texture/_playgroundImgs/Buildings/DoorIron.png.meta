@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "8f589fc7-f62a-46ee-aec5-ab184908a658",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "DoorIron": {
+      "ver": "1.0.3",
+      "uuid": "5b853651-c2d8-4609-bef2-594814d7d568",
+      "rawTextureUuid": "8f589fc7-f62a-46ee-aec5-ab184908a658",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 298,
+      "height": 394,
+      "rawWidth": 298,
+      "rawHeight": 394,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
